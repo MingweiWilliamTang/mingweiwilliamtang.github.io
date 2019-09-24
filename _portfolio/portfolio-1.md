@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "JSM 2019:SBSS student paper award session"
+excerpt: "Mingwei recieved SBSS student paper award at JSM 1<br/><img src='/images/PaperAwardPhoto.jpg'>"
 collection: portfolio
 ---
 
