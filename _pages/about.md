@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Mingwei Tang's Personal Website"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,8 @@ redirect_from:
 
 This is Mingwei's personal website
 
-A data-driven personal website
+Mingwei Tang is a Ph.D graduate from [Department of Statitics](https://www.stat.washington.edu/) at University of Washington. Mingwei is advised by Prof Vladimir Minin (https://vnminin.github.io/) working on fitting stochastic epidemic model to mutliple data types. 
+
 ======
 
 Getting started

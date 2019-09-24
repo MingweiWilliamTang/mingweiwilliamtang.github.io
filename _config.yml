@@ -86,7 +86,7 @@ author:
   location         : "San Francisco bay area"
   employer         :
   pubmed           : 
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=Xw9KiDEAAAAJ&view_op=list_works&gmla=AJsN-F7pQogmkonIGjR1lUqKUdeDZyw06jXVlxVJr9ATTW4xRemL3Y9fqyVKhB2Ku7FHbbDF9OETdu6GhavCggrgYL9RCjERFQ"
   email            : "mingwt@uw.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
