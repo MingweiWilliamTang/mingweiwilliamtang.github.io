@@ -10,7 +10,7 @@ redirect_from:
 
 This is Mingwei's personal website
 
-Mingwei Tang is a Ph.D graduate from [Department of Statitics](https://www.stat.washington.edu/) at University of Washington. Mingwei is advised by Prof Vladimir Minin (https://vnminin.github.io/) working on fitting stochastic epidemic model to mutliple data types. 
+Mingwei Tang is a Ph.D graduate from [Department of Statitics](https://www.stat.washington.edu/) at University of Washington. Mingwei is advised by Prof [Vladimir Minin](https://vnminin.github.io/) working on fitting stochastic epidemic model to mutliple data types. 
 
 ======
 
