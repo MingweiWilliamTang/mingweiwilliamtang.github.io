@@ -8,20 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-This is Mingwei's personal website
+About me
 
-Mingwei Tang is a Ph.D graduate from [Department of Statitics](https://www.stat.washington.edu/) at University of Washington. Mingwei is advised by Prof [Vladimir Minin](https://vnminin.github.io/) working on fitting stochastic epidemic model to mutliple data types. 
+I am a Ph.D graduate from [Department of Statistics](https://www.stat.washington.edu/) at University of Washington. During my Ph.D, I was really honored to be advised by Prof [Vladimir Minin](https://vnminin.github.io/) working on fitting stochastic epidemic model to mutliple data types. 
 
+
+Research Interests:
 ======
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+1. Stochastic Modeling, Bayesian Analysis, MCMC algorithm, Infectious disease modeling
+1. Machine (deep) learning, Convex optimization
 
 Site-wide configuration
 ------
@@ -38,6 +33,3 @@ How to edit your site's GitHub repository
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
