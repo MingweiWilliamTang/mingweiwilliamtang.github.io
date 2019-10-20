@@ -35,16 +35,15 @@ Skills
   * python, C++, java, R, matlab, Unix shell script
   * SQL, latex
 
+Talks
+======
+JSM 2017 
+JSM 2019 
+
 Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
