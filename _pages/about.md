@@ -9,7 +9,7 @@ redirect_from:
 ---
 Mingwei Tang
 ------
-![Mingwei Tang](/images/self2.jpeg)
+![Mingwei Tang](/images/self2.jpeg=400x300)
 
 I am a Ph.D graduate from [Department of Statistics](https://www.stat.washington.edu/) at University of Washington (UW). During my Ph.D at UW, I was fortunated to be advised by Prof [Vladimir Minin](https://vnminin.github.io/). My research focuses on stochastic modeling, Bayesian inference and MCMC algorithm on time series data. I'm working on fitting stochastic epidemic model to mutliple data types such as genetic data and surveillance data. 
 

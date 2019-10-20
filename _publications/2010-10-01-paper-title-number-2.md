@@ -2,7 +2,7 @@
 title: "Time weighted risky code detection"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'Tang, M., Dudas, G., Bedford, T., & Minin, V. N. (2019). Fitting stochastic epidemic models to gene genealogies using linear noise approximation'
+excerpt: ''
 date: 2010-10-01
 venue: 'Journal 1'
 ---
