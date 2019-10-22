@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[pdf version](http://https://mingweiwilliamtang.github.io/files/MingweiTang.pdf)
 
 Education
 ======
@@ -37,8 +38,8 @@ Skills
 
 Talks
 ======
-JSM 2017 
-JSM 2019 
+*JSM 2017 
+*JSM 2019 
 
 Publications
 ======
