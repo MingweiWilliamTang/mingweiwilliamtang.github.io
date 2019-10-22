@@ -4,9 +4,8 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-fall-teaching-1
 venue: "University of, Department of Statistics"
-date: 2014-2016 fall
 ---
-
+2014-2016 fall
 
 Heading 1
 ======

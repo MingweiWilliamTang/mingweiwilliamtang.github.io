@@ -4,9 +4,8 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2015-summer-teaching-1
 venue: "University of Washington, Department of Statistics"
-date: 2015 summer
 ---
-
+2015 summer
 
 Heading 1
 ======

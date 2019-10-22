@@ -4,9 +4,8 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Washington, Department of Statistics"
-date: 2014-2006 Spring
 ---
-
+2014-2016 winter
 
 Heading 1
 ======
