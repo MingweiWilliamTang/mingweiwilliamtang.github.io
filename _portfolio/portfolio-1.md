@@ -1,6 +1,6 @@
 ---
 title: "JSM 2019:SBSS student paper award session"
-excerpt: "Mingwei recieved SBSS student paper award at JSM <br/><img src='/images/PaperAwardPhoto.jpg'>"
+excerpt: "Mingwei recieved SBSS student paper award at JSM <br/><img src='/images/PaperAwardPhoto.jpg' width="75%">"
 collection: portfolio
 ---
 [2019 SBSS Student Paper Award Winners](https://community.amstat.org/sbss/home)
