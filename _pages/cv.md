@@ -13,7 +13,7 @@ redirect_from:
 Working experience
 ======
 * 2019.9 --- Now. Infrastructure Data Scientist at Facebook
- * Working with AI infra on infrastrcture problems related to scalability, reliablity and efficiency
+  * Working with AI infra on infrastrcture problems related to scalability, reliablity and efficiency
 
 * Summer 2017: Data Scientist Intern at Microsoft
   * Building machine-learning-based method to detect risky files for code review
